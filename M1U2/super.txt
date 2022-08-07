@@ -2,3 +2,7 @@ pan
 galletitas
 fruta
 verdura
+manzana
+banana
+pera 
+palta
