@@ -6,3 +6,5 @@ manzana
 banana
 pera 
 palta
+
+detergente
