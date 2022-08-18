@@ -1,35 +1,40 @@
-h1{
+h1 {
     background-color: black;
     color: beige;
     text-align: center;
     font-size: 36px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-h2{
+
+h2 {
     color: black;
     text-align: center;
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-img{
+
+img {
     width: 350px;
     height: 300px;
     border: 5px solid black;
 }
-h3{
+
+h3 {
     background-color: grey;
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 18px;
     text-align: center;
 }
-p{
+
+p {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: 18px;
 }
-#caja{
+
+#caja {
     background-color: beige;
     width: 450px;
     height: 75px;
@@ -40,13 +45,15 @@ p{
     font-size: 18px;
     margin-left: 30%;
 }
-ol{
+
+ol {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: 18px;
 }
-.destacados{
-    background-color: black;
+
+.destacados {
+    background-color: orange;
     color: beige;
 }
