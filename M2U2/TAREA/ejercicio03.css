@@ -1,0 +1,38 @@
+#contenedor{
+    height: 250px;
+    display: flex;
+    box-sizing: border-box black;
+    border-style: solid;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#div1{
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#div2{
+    background-color: blue;
+    height: 250px;
+    width: 250px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div3{
+    background-color: green;
+    height: 250px;
+    width: 250px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
